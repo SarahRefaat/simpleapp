@@ -1,4 +1,4 @@
-<? php include 'header.php'; ?>
+<?php include 'header.php'; ?>
 
 <div class="content">
     <h1>Welcome to the World of Lions</h1>
